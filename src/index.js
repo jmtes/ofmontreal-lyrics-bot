@@ -12,9 +12,18 @@ const client = new TwitterClient({
   accessTokenSecret: process.env.OM_ACCESS_SECRET,
 });
 
-const lyric = getRandomElement(lyrics);
+const { lyric, spotifyUrl } = getRandomElement(lyrics);
 
 client.tweets
   .statusesUpdate({ status: lyric })
-  .then(res => console.log(res.text))
+  .then(res => {
+    console.log(`Tweeted lyric "${res.text}"`);
+    client.tweets
+      .statusesUpdate({
+        status: spotifyUrl,
+        in_reply_to_status_id: res.id_str,
+      })
+      .then(res => console.log('Replied with Spotify URL'))
+      .catch(err => console.log(err));
+  })
   .catch(err => console.log(err));
