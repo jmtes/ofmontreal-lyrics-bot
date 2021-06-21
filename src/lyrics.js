@@ -450,4 +450,413 @@ module.exports = [
     spotifyUrl:
       'https://open.spotify.com/track/0PXrJ1nGivMOMCIbzhYPUJ?si=776028287f9c414f',
   },
+  {
+    lyric:
+      'your hair is so dark, its curls are dancing flames of black fire\nallah created you just for us to admire',
+    spotifyUrl:
+      'https://open.spotify.com/track/0LcpxoVARn55PY1zCgfaeb?si=9e86315e2f4f48b4',
+  },
+  {
+    lyric:
+      "i doubt that you're the only one like you that i'll find, but for sure you're one of a very few of a kind, yes you are",
+    spotifyUrl:
+      'https://open.spotify.com/track/0LcpxoVARn55PY1zCgfaeb?si=9e86315e2f4f48b4',
+  },
+  {
+    lyric:
+      'your eyes are so clear, they seem to speak to me from a gleeful world and they look like singing moons made of black pearl',
+    spotifyUrl:
+      'https://open.spotify.com/track/0LcpxoVARn55PY1zCgfaeb?si=9e86315e2f4f48b4',
+  },
+  {
+    lyric:
+      "i'm not saying that you're the only one like you that i'll find, but for sure you're one of a very few of a kind, yes you are",
+    spotifyUrl:
+      'https://open.spotify.com/track/0LcpxoVARn55PY1zCgfaeb?si=9e86315e2f4f48b4',
+  },
+  {
+    lyric:
+      "you're as stunning as a tidal wave of wisteria, just a smile from you has sent gents into hysteria",
+    spotifyUrl:
+      'https://open.spotify.com/track/0LcpxoVARn55PY1zCgfaeb?si=9e86315e2f4f48b4',
+  },
+  {
+    lyric:
+      'i am a happy yellow bumble bee, flying around the flowers and trees\nand all morning long, i flutter about in the swirling breeze and the sun is yellow like me',
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      "i am a happy yellow bumble bee, everything so much bigger than me\nbut i'm not afraid, for if something gets too close, i give them a sting that makes them howl and scamper away",
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      "no, i'm not afraid, though sometimes i get lonely because my parents are dead and i can't find my brothers or sisters",
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      "at night the sky looks so black and i can't find the sun\nit doesn't matter how hard i try",
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      "when i feel like i'm covered in darkness and that light won't touch me anymore, i hear the cardinals singing and i know who they're singing for when i see the sun",
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      "all my friends are beetles and centipedes, and all summer long we laugh and we play\nbut we don't talk to spiders because they're mean and they try to trick us because they want to eat us\nbut they'll never beat us",
+    spotifyUrl:
+      'https://open.spotify.com/track/4hQMBrO85a4etFlglfDSVU?si=58a133deabd54700',
+  },
+  {
+    lyric:
+      'miniature woodwinds whistle underwater while electric eels make the ocean warm in summer',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'olives that were left on the sand become bathing beach bunnies being wooed by seashells singing elegant choruses',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      "little viola hidden in the orchestra, how i love to pretend the sounds you make are flowers that slowly encircle the band, that curl around each note that's played",
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'the audience charmed by the floating garden of music giddily pick musical floral bouquets',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'and now its time for the play\nthe actor in the center of the stage looks sadly at a teacup, reads a poem off the teacup, and covers his face with a page from a poem on the teacup and sings',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'what a terrible lie you told me, that your heart was mine to buy\nall those feelings you implied, it all were just terrible lies\noh, what a terrible lie',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'do you remember in the first verse when i told you about the seashells singing? well if you wanna hear what it sounds like, you just have to listen',
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      "i will be a good boy and never tell you the bad things that i think about, the nasty little things i'll keep them to myself",
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      "i will be a good boy and never tell you the bad things that i think about, the dirty little things i'll keep them to myself",
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      "i will be a good boy and never tell you the bad things that i think about, the sinister things i'll keep them to myself",
+    spotifyUrl:
+      'https://open.spotify.com/track/6ZloxnwT6gbJZnCVBZPa7R?si=189d9596a6364191',
+  },
+  {
+    lyric:
+      'the laughter and the cheer dissolves into his memory, taste of vodka on his lips and thoughts of murder and doom',
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      'as her eyes appeared to bloom, he wanted to touch them but was afraid she might be taken aback\nthen what would he say?',
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      'they walked to the garden in the park when it was empty after dark, then spread out a blanket and laid down\nand a voice said no one else could hear',
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      "he whispered in her ear, \"although i can't sing it now, be still, 'cause some day baby i will sing you a love you song",
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      "you know, maybe there's a chance that your feelings you've mistook or have presently overlooked\nyou say you don't love me, but yet perhaps you just forget that you do",
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      "i love you, please believe\nthe only matter of concern is that your love will one day fade\nif that should happen i would die, and that's the reason why",
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric:
+      'how could you question when the root of my affection is so plain and obvious? it grew from the overwhelming pleasure of just being near you, and now you bring in doubts and they are smothering our love!',
+    spotifyUrl:
+      'https://open.spotify.com/track/4U5pqk1m9KAyb3b1B60pMk?si=483e00e79b7b41a1',
+  },
+  {
+    lyric: 'honeymoon in san francisco, what a grand idea',
+    spotifyUrl:
+      'https://open.spotify.com/track/3sthaXBODVZogac8v1q31w?si=5eea3e8b2dae46fb',
+  },
+  {
+    lyric:
+      "we'll rent a room in a four-star hotel, we'll spend the whole time drunk on champagne and lime",
+    spotifyUrl:
+      'https://open.spotify.com/track/3sthaXBODVZogac8v1q31w?si=5eea3e8b2dae46fb',
+  },
+  {
+    lyric:
+      "we'll never feel the need to get out of bed\nthough on occasion we'll charter a boat, sail off to a distant island\nonce there we'll take off our shoes and relax beneath the sun",
+    spotifyUrl:
+      'https://open.spotify.com/track/3sthaXBODVZogac8v1q31w?si=5eea3e8b2dae46fb',
+  },
+  {
+    lyric:
+      "we won't care if we lose our minds, we won't care if we live or die",
+    spotifyUrl:
+      'https://open.spotify.com/track/3sthaXBODVZogac8v1q31w?si=5eea3e8b2dae46fb',
+  },
+  {
+    lyric: 'you are my cutie pie, my cutie pie, yes you are',
+    spotifyUrl:
+      'https://open.spotify.com/track/48gpUC5wTOjY5XNe55oegf?si=f3e6aedbac8c4143',
+  },
+  {
+    lyric:
+      "you'll be my cutie pie until the day i die\ni hope that's a long time cause i don't wanna die",
+    spotifyUrl:
+      'https://open.spotify.com/track/48gpUC5wTOjY5XNe55oegf?si=f3e6aedbac8c4143',
+  },
+  {
+    lyric: "i'd go down on you if that would make you happy, my panda bear",
+    spotifyUrl:
+      'https://open.spotify.com/track/7m6FZ8owT8T1EAA7juIGxi?si=de3a6e4392e64c8e',
+  },
+  {
+    lyric: 'please stop bombing my lullabies to pieces, my panda bear',
+    spotifyUrl:
+      'https://open.spotify.com/track/7m6FZ8owT8T1EAA7juIGxi?si=de3a6e4392e64c8e',
+  },
+  {
+    lyric:
+      "you don't understand what the morning does to me\nin the poison daylight i can hear shadows crawling over everything",
+    spotifyUrl:
+      'https://open.spotify.com/track/7m6FZ8owT8T1EAA7juIGxi?si=de3a6e4392e64c8e',
+  },
+  {
+    lyric:
+      "i wanna know how you feel\ni wanna know\nwon't you please, please tell me so?",
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric:
+      "i'll know to bring us closer 'cause thats all i want to do\nto bring me closer to you",
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric:
+      "i want to know how you feel, how am i to know if you don't tell me so?",
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric: 'i sometimes get the impression that for me you no longer care',
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric:
+      'please let me know if our romance is over\nif you no longer love me, i should know',
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric:
+      "in the shower and on the bus, at the cafe in the office\ni just can't get my mind off of it\nyou never say a word, so i have to say them for you\nplease tell me if i'm just insecure",
+    spotifyUrl:
+      'https://open.spotify.com/track/6IUyV3f6PI3YX5ZUiFTVOI?si=1517eaa8db5b4b2e',
+  },
+  {
+    lyric:
+      "i've lost and don't remember what i saw in you\nyour charms have become less charming\nyour sweetness decreases everyday\nmy dear darling, i've forgotten what i saw in you",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "now i'm lost, i don't know a gentle way to say that our life together is over and it's best that you find someone new",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      'i seem to recall some vague memory of feeling happy when we were young and in love, but that was a long time ago',
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "never in a million years would i have dreamt that about you i'd become indifferent\nbut sweetheart, incredibly, it's true that your cutie pie has forgotten what he saw in you",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "sweetheart, incredibly it's true\nthat your cutie pie has forgotten what he saw in you",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "please don't think that i'm being impulsive or careless and that i'm not miserable too, but i just can't continue this lie",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "i wish this had a happy ending, i wish there was something i could do\nbut my darling, i've forgotten what i saw in you",
+    spotifyUrl:
+      'https://open.spotify.com/track/0ey30uckysf2I6g1fU7di5?si=b55cdd2603244cb2',
+  },
+  {
+    lyric:
+      "i love you completely\nplease, i don't want you to go\nthough you are not content here with me and you feel you must go",
+    spotifyUrl:
+      'https://open.spotify.com/track/7g5S9Z5ZMUOutva1f5d11z?si=6527bb81ffb54ad8',
+  },
+  {
+    lyric:
+      'how could i lose you so fast? how come our love did not last? how come i waited my whole lonely life for you, just for you to leave me lonely too?',
+    spotifyUrl:
+      'https://open.spotify.com/track/7g5S9Z5ZMUOutva1f5d11z?si=6527bb81ffb54ad8',
+  },
+  {
+    lyric:
+      'i love you completely, my dear, i wanted you to know\nthroughout this big world, nobody else has loved someone so',
+    spotifyUrl:
+      'https://open.spotify.com/track/7g5S9Z5ZMUOutva1f5d11z?si=6527bb81ffb54ad8',
+  },
+  {
+    lyric:
+      'i tried to live a life of beauty\ni tried to love you truly\ni tried to hold in my arms, but you slipped right through me\ni never knew venus to be so moody',
+    spotifyUrl:
+      'https://open.spotify.com/track/7g5S9Z5ZMUOutva1f5d11z?si=6527bb81ffb54ad8',
+  },
+  {
+    lyric:
+      "look who's talking to their shadow like one who hasn't got a friend, like somebody with a broken heart that is never gonna mend",
+    spotifyUrl:
+      'https://open.spotify.com/track/1lzL37hqcOvjf8xWnMUHxJ?si=24b77f86a571481e',
+  },
+  {
+    lyric:
+      "look who's walking through the night in the rain like one who's under a spell, like somebody with a lot on their mind but no one to tell",
+    spotifyUrl:
+      'https://open.spotify.com/track/1lzL37hqcOvjf8xWnMUHxJ?si=24b77f86a571481e',
+  },
+  {
+    lyric:
+      "everyone you see seems so happy and carefree\nthey've found someone to love, but you are alone",
+    spotifyUrl:
+      'https://open.spotify.com/track/1lzL37hqcOvjf8xWnMUHxJ?si=24b77f86a571481e',
+  },
+  {
+    lyric:
+      "look who's flipping through the photographs of those happier days, only losing something beautiful could make a person feel this way",
+    spotifyUrl:
+      'https://open.spotify.com/track/1lzL37hqcOvjf8xWnMUHxJ?si=24b77f86a571481e',
+  },
+  {
+    lyric:
+      "someone's in love with someone who doesn't love them back\ntheir body's like a hollow room, they carry around an empty feeling wherever they go",
+    spotifyUrl:
+      'https://open.spotify.com/track/0zUKPTyZDNJh8wOJ7pR1FB?si=fd3cccf238b74e81',
+  },
+  {
+    lyric:
+      "when one is crying over someone who doesn't even care, their body's like an empty tomb\nthey carry around a desperate feeling wherever they go, they're in a hollow room",
+    spotifyUrl:
+      'https://open.spotify.com/track/0zUKPTyZDNJh8wOJ7pR1FB?si=fd3cccf238b74e81',
+  },
+  {
+    lyric:
+      "all the devils in the world couldn't think up a more painful thing\nto be in love with someone who doesn't love you back",
+    spotifyUrl:
+      'https://open.spotify.com/track/0zUKPTyZDNJh8wOJ7pR1FB?si=fd3cccf238b74e81',
+  },
+  {
+    lyric:
+      "it's easy to sleep when you're dead, but you're unable to touch your loved ones, give them kisses, or see them smile at you",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      "it's easy to sleep when you're dead, but you give up your life's work\nand you never can reverse the bad things that you did",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      "while alive you still have hope that when you die it might be better\nwhen you die you are dead and you know for sure if it's better\ni hope it's better",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      "it's easy to sleep when you're dead, though you can't feel the warmth of summer, smell the flowers of spring, or drink cider in the fall",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      "it's easy to sleep when you're dead, though it's too late to say the words you wanted them to hear when you didn't have the nerve",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      'you get to spend eternity thinking about your life\nthink of all the time that is, because eternity is forever,\nwhat will i do forever?',
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      'at this time there is nothing you can change, you can only sit and watch and hope they understand',
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
+  {
+    lyric:
+      "it's easy to sleep when you're dead 'cause there isn't anything else to do but sleep\ni feel sorry for the dead",
+    spotifyUrl:
+      'https://open.spotify.com/track/34XPNkxw9hzomqwBIOlVhq?si=b6af763804da446c',
+  },
 ];
